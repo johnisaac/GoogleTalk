@@ -1,0 +1,16 @@
+0000000046e7ac9600000000000016e0 91caff42e0895e878ed4847cfbf4d938 ffffffffffffffffffffffffffffffff 19620 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/ChatWindowManager.o
+00000000491bffbc00000000000370a7 1d057f7c4efac9abd476fd42ab2f3da7 ffffffffffffffffffffffffffffffff 35444 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/ChatController.o
+00000000483801af0000000000037727 e3cf4c70c253fc438ee486a983973863 ffffffffffffffffffffffffffffffff 20908 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/RequestController.o
+0000000047c46ce2000000000000090b a5d3bfe5630dbcde2c568048ebef814c ffffffffffffffffffffffffffffffff 21900 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/XMPPUser.o
+000000004bd10738000000000002ec58 b2c83d910eec0e87cffb44f21f2c93cc ffffffffffffffffffffffffffffffff 94796 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/XMPPStream.o
+0000000047f3d57c0000000000033e60 f07d0f3c853a2b3bd7654a396a961d05 ffffffffffffffffffffffffffffffff 64728 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/RosterController.o
+000000000e34a813000000000000bba9 a88e6bbfbaf7dd3a8c24865971c8cab0 ffffffffffffffffffffffffffffffff 117760 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/AsyncSocket.o
+0000000000fce56b0000000000036c00 31b134b9d69e0f002a1c668844812d73 ffffffffffffffffffffffffffffffff 4668 /Users/john/Downloads/XMPPStream-5/build/GTalk.build/Debug/XMPPStream.build/Objects-normal/i386/main.o
+7453d49680918d1437c06952d0c598d6 260c4908f4d8d6aa6e25cda9aba0be0a ffffffffffffffffffffffffffffffff 102 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app
+00000000492c999b00000000000000cc 527cbf89552004839650ccd2ffae50d1 ffffffffffffffffffffffffffffffff 204 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/Frameworks/SSCrypto.framework
+11591e00e60f98e846b691c5780f5faa b28c19277d275fc1bad0f9b77021d71e ffffffffffffffffffffffffffffffff 131304 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/MacOS/XMPPStream
+00000000000000000000000000000000 2923c1a5e13815388c9532f5a29c27d4 ffffffffffffffffffffffffffffffff 170 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/Resources/English.lproj/ChatWindow.nib
+00000000462c2ac300000000000000ca 583ec0b12a4e0c44c4de4e609e86eb2c ffffffffffffffffffffffffffffffff 202 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 f4e76d2c8aefe49a15bdb1671b5f8c4d ffffffffffffffffffffffffffffffff 170 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/Resources/English.lproj/MainMenu.nib
+00000000000000000000000000000000 5705a35dcd7de7ef5cbde6cbb0af2df4 ffffffffffffffffffffffffffffffff 8 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/PkgInfo
+00000000000000000000000000000000 5705a35dcd7de7ef5cbde6cbb0af2df4 ffffffffffffffffffffffffffffffff 778 /Users/john/Downloads/XMPPStream-5/build/Debug/XMPPStream.app/Contents/Info.plist
